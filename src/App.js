@@ -1,7 +1,8 @@
 import Post from './Post'
 
 
-const MESSNER_AVATAR = "http://www.explorapoles.org/assets/uploads/explorers_images/portrait2_or.jpg";
+const MESSNER_AVATAR = "https://preview.thenewsmarket.com/Previews/FILA/StillAssets/640x480/542209.JPEG";
+//const MESSNER_AVATAR = "http://www.explorapoles.org/assets/uploads/explorers_images/portrait2_or.jpg";
 const MOUNT_IMAGE = "https://konkurent.ua/media/uploads/prev/2020/03/13/17/41/24/917a08ac722c69ee0b563286af46ec97.png";
 const ARXIMED_AVATAR = 'https://aforisimo.ru/autors/%D0%90%D1%80%D1%85%D0%B8%D0%BC%D0%B5%D0%B4.jpg';
 const ARXIMED_IMAGE = 'https://fs01.vseosvita.ua/010029i5-ba6e/001.jpg';
